@@ -15,3 +15,5 @@
 ## Run with
 
 `./safe-allow.sh`
+
+![Safe Alloy](https://i.imgur.com/DPhPVix.png "Safe Alloy")
