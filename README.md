@@ -10,7 +10,7 @@
 
 1. Install Ffmpeg; make sure it's on PATH;
 1. Create a `.env` text file with the same settings found in `.env.example`;
-1. Increse of decrese the number of sets of ffmpeg+ffplay+CAMX_PID+kill instructions on safe-alloy.sh script, according to how many cameras you have on your network.
+1. Increse or decrese the number of sets of ffmpeg+ffplay+CAMX_PID+kill instructions on safe-alloy.sh script, according to how many cameras you have on your network.
 
 ## Run with
 
